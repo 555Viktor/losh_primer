@@ -1,0 +1,45 @@
+body {
+    background-color:#900C3F;
+    text-align: center;
+}
+#logo {
+    height: 125px;
+    width: 125px;
+}
+img {
+    height: 330px;
+    width: 330px;
+    border: solid 3px;
+}
+p {
+    text-decoration: underline dotted  ;
+    font-size: 20px;
+    font-weight: bold ;   
+    color: #F8DE22;
+}
+#loggo {
+    text-align: center;
+}
+h1 {
+    font-size: 33px;
+}
+#instagram {
+    height: 30px;
+    width: 30px;
+    border: 0px;
+}
+#gmail {
+    height: 30px;
+    width: 30px;
+    border: 0px; 
+}
+h2 {
+    letter-spacing: 5px;
+}
+p {
+    letter-spacing: 2px;
+}
+#special {
+    letter-spacing: 1px;
+    color: orange;
+}
